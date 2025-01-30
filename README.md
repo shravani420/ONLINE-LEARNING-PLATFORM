@@ -65,15 +65,8 @@ The video element inside the .video-container is styled to be responsive, with w
 
 The video also has rounded corners (border-radius: 10px) and a subtle shadow (box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);) to give it a polished look.
 
-
-Quiz Section:
-
-The .quiz section contains the quiz and its related elements like the question and the answers.
-
-It has a white background (background: white) and padding of 1rem, along with rounded corners and a shadow for a card-like appearance.
-
-The <h3> tag inside the .quiz section defines the title of the quiz, and there’s a button for submitting the quiz answers.
-
-The button has a background color of green (#4CAF50), which matches the header's color, and a hover effect is implemented to darken the green slightly (background-color: #45a049;) when the user hovers over it.
+OUTPUT :-
+![Image](https://github.com/user-attachments/assets/0fece616-a0b4-4c38-82c5-3ccf25296d7c)
+![Image](https://github.com/user-attachments/assets/66ea0043-9d6b-453d-9781-e0a8128dc588)
 
 
